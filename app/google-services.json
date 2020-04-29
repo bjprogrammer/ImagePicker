@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "743280804448",
+    "firebase_url": "https://image-picker-7d5bf.firebaseio.com",
+    "project_id": "image-picker-7d5bf",
+    "storage_bucket": "image-picker-7d5bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743280804448:android:878f3d76653accb6df3905",
+        "android_client_info": {
+          "package_name": "com.upload.imagepicker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743280804448-g8utigtubtouhve9v75j2t5mboj2q3lm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyMUi5517mqJ-Y6cWZKu4WvlRdCIe1pcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743280804448-g8utigtubtouhve9v75j2t5mboj2q3lm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

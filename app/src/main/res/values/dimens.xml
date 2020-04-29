@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="margin_small">6dp</dimen>
+    <dimen name="text_size_small">18sp</dimen>
+    <dimen name="loading_external_radius_default">24dp</dimen>
+    <dimen name="loading_internal_radius_default">4dp</dimen>
+    <dimen name="loading_radius">72dp</dimen>
+
+    <dimen name="card_layout_margin">2dp</dimen>
+    <dimen name="card_layout_corner_radius">4dp</dimen>
+    <dimen name="card_layout_elevation">4dp</dimen>
+</resources>
